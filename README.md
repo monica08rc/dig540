@@ -1,1 +1,1 @@
-# dig540
+## DIG540: Digital Collections & Exhibitions
