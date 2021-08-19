@@ -4,8 +4,8 @@
 
 This course covers the technical means and social consequences of
 assembling and sharing cultural data and artifacts. Topics include the
-fundamentals of relational databases; a survey of collection management
-packages and practices; and an introduction to the special concerns and
+fundamentals of relational databases, a survey of collection management
+packages and practices, and an introduction to the special concerns and
 programming concepts necessary to customize off-the-shelf database
 solutions for domain and content appropriateness.
 
@@ -16,10 +16,10 @@ Various texts in this syllabus written by the previous instructor, John P. Bell 
 Upon completing the course, students will have:
 
 - Been shown a variety of the collection management packages in use across
-the field.
-- Learned the fundamental structure and logic behind relational databases.
-- Been introduced to concepts used in the PHP language to customize a CMS.
-- Used data transformation tools to migrate collection data between formats.
+the field;
+- Learned the fundamental structure and logic behind relational databases;
+- Been introduced to concepts used in the PHP language to customize a CMS;
+- Used data transformation tools to migrate collection data between formats;
 - Gained an appreciation for the special source concerns of working with
 cultural data in an information system.
 
@@ -35,11 +35,9 @@ course: Slack, and GitHub.
 
 Slack
 
-The course will be held on Slack, a relatively new but popular player in
-the online collaboration tool arena. We will be using, evaluating, and
-experimenting with this environment throughout the semester. Slack
-conversations take place in topical channels where messages are streamed
-in chronological order.
+The course will be held on Slack, a popular online collaboration tool. 
+Slack conversations take place in topical channels where messages are 
+streamed in chronological order.
 
 GitHub
 
@@ -47,8 +45,8 @@ This course will use GitHub to distribute files, assignments, and even
 this syllabus. You’ll also be turning your work in using GitHub. GitHub
 is a site that is often used to manage and distributed open source
 software. It’s built on top of Git, a version control tool that you’re
-going to see a lot of if you hang around software development circles
-much. More details on how we’re going to use this tool are in the first
+going to see a lot of if you hang around software development circles. 
+More details on how we’re going to use this tool are in the first
 week’s videos.
 
 **Course Flow**
@@ -56,8 +54,7 @@ week’s videos.
 The course is broken up into a series of topics that consist of video
 lectures, readings, and associated assignments. Nominally each topic
 takes one week, though you should expect some variation based on the
-complexity of the material in the topic (you'll notice that there are 
-topics than weeks in the semester). New topics will begin on Wednesdays. 
+complexity of the material in the topic. New topics will begin on Wednesdays. 
 For each topic you are expected to:
 
 -   Watch all of the lectures and tutorials listed in the week’s
@@ -94,14 +91,8 @@ assignment then you will have little opportunity to display your
 understanding of the ideas being discussed and we will not have much
 information to use when evaluating your success in the class. Ask
 questions, throw in comments, and generally add to the discussion as
-much as possible, *particularly* if you think you missed something or
-you have a stupid question. Odds are other people are as confused as you
+much as possible. Odds are other people are as confused as you
 are.
-
-As with all classes, it is expected that you will treat others with
-respect. If you are repeatedly abusive toward your classmates you will
-be moderated out of the conversation and it will be considered an
-absence for purposes of the attendance policy.
 
 **Grading**
 
