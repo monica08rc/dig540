@@ -141,6 +141,54 @@ count towards completion of your certificate. Failure to complete any of
 the required components of your grade with an average or better effort
 will result in a "D" or an "F" as your final grade.
 
+**Topics**
+
+*Unit 1: Virtual Collections*
+
+Collecting information on artifacts is only the first half of the
+responsibility of cultural preservation and cataloging institutions;
+they must also work to keep that information alive and share it with
+researchers and the public. In a digital context, methods of sharing
+data can range from an internal database made available to other
+institutional staff to a public website designed for dissemination. This
+unit looks at how different goals can be met by different types of
+information systems. Students also examine the shift in control from
+curator to viewer that attends the transition from physical to virtual
+exhibitions.
+
+*Unit 2: Database Structures*
+
+Understanding how data is stored helps understand how the storage medium
+and mechanism influences the representation of an artifact. This section
+introduces concepts of how databases are structured and demonstrates a
+common tool used in their creation and manipulation, the SQL language.
+
+*Unit 3: Publishing Data on the Web*
+
+Databases are rarely exposed directly to the Internet, and for most
+people would be largely useless if they were. Intermediary languages
+take on the role of formatting data for output and passing data input
+from the interface to the database. This unit introduces PHP, one
+language that is often used to manipulate web pages.
+
+*Unit 4: Merging Data and Logic*
+
+In order to be useful, web interfaces and databases need to be connected
+together. This unit demonstrates some basic programming techniques that
+are used to insert, access, and display database information on web
+sites in the PHP.
+
+*Unit 5: Scope and Planning*
+
+The final unit will allow students to plan modifications to a collection management
+system to meet the needs of their particular cultural information. While
+off-the-shelf platforms are useful, many cultural collections come with
+special concerns that must be respected and are not accounted for in
+generalized data models. This section both highlights some of the
+potential issues involved in dealing with cultural data and gives
+students the opportunity to address those issues by adjusting the data
+model and output of a collection management system.
+
 **University Policies**
 
 1)  **Academic Honesty Statement:** Academic honesty is very important.
