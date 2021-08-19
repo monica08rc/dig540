@@ -9,7 +9,7 @@ packages and practices; and an introduction to the special concerns and
 programming concepts necessary to customize off-the-shelf database
 solutions for domain and content appropriateness.
 
-Various texts in this syllabus written by the previous instructor, John P. Bell.
+Various texts in this syllabus written by the previous instructor, John P. Bell <http://www.johnpbell.com>.
 
 **Course Goals**
 
