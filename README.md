@@ -1,6 +1,6 @@
 ## DIG540: Digital Collections & Exhibitions
 - Instructor: Craig Dietrich <https://craigdietrich.com>
-- Slack: DIG540, Fall 2021 <dig540-2021.slack.com>
+- Slack: DIG540, Fall 2021 <http://dig540-2021.slack.com>
 
 This course covers the technical means and social consequences of
 assembling and sharing cultural data and artifacts. Topics include the
