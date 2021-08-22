@@ -1,10 +1,10 @@
 ## Week 1 - Setup
 
-This week is all about getting the environment set up. The videos below will show you how to create the accounts and download the software you'll need throughout this semester. If you run into any problems just ask for help in Slack.
+This week is all about getting the environments set up: Slack, GitHub, and Reclaim (or another hosting account if you have one). The video below will show you how to create the accounts and download the software you'll need throughout this semester. If you run into any problems just ask for help in Slack.
 
-**Videos**
+**This Week's Video**
 
-- Introduction to DIG540: <https://vimeo.com/231592995>
+- Introduction to DIG540: 
 
 **Links**
 
