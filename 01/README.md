@@ -4,10 +4,9 @@ This week is all about getting the environments set up: Slack, GitHub, and Recla
 
 **This Week's Video**
 
-- Introduction to DIG540: 
+- Introduction to DIG540 and assignment overview: 
 
-**Links**
-
+**Helpful Links**
 
 **Assignment**
 
