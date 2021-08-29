@@ -10,9 +10,11 @@ This week is all about getting the environments set up: Slack, GitHub, and Recla
 
 **Assignment**
 
+All parts othe assignment are discussed in the intro video above.
+
 Part 1: Say "hi" in Slack.
 
-Part 2: Create or re-familiarize yourself with your Reclaim Hosting account (or another hosting account if you have one).
+Part 2: Create or re-familiarize yourself with your Reclaim Hosting account <https://reclaimhosting.com> (or another hosting account if you have one).
 
 Part 3: Install or re-famimliarize yourself with Visual Studio Code <https://code.visualstudio.com>, the editor we will be using this semester for text and code files.
 
