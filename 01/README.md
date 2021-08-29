@@ -1,6 +1,6 @@
 ## Week 1 - Setup
 
-This week is all about getting the environments set up: Slack, GitHub, and Reclaim Hosting (or another hosting account if you have one). If you run into any problems just ask for help in Slack.
+This week is all about getting the environments set up: Slack, Reclaim Hosting (or another hosting account if you have one), Visual Studio Code, and GitHub. If you run into any problems just ask for help in Slack.
 
 **This Week's Video**
 
