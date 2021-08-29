@@ -14,7 +14,7 @@ Part 1: Say "hi" in Slack.
 
 Part 2: Create or re-familiarize yourself with your Reclaim Hosting account <https://reclaimhosting.com> (or another hosting account if you have one).
 
-Part 3: Install or re-famimliarize yourself with Visual Studio Code <https://code.visualstudio.com>, the editor we will be using this semester for text and code files.
+Part 3: Install or re-famimliarize yourself with Visual Studio Code <https://code.visualstudio.com>, the editor we will be using for text and code files.
 
 Part 4: Create or re-familiarize yourself with your GitHub account. Then, 
 - Fork the <https://github.com/craigdietrich/dig540> repository;
