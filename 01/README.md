@@ -10,8 +10,10 @@ This week is all about getting the environments set up: Slack, GitHub, and Recla
 
 **Assignment**
 
-Install the software in the videos and create your GitHub account. Then, fork the <http://github.com/novomancy/dig540> repository. Once the fork is created, send me the link to your fork as a direct message in Slack. Clone your fork onto your local computer and edit the vocabulary.txt file like I did in the video, then sync it back to GitHub. (It may ask for an account and password when you try to sync; just use the GitHub account you created.) The end result should be that your fork will have one more file than the master. Finally, create a pull request so I can see your new vocabulary term.
+Part 1: Say "hi" in Slack.
 
-Also, set up your Reclaim account or let me know if you have another hosted environment already. I'm happy to answer any questions about this.
+Part 2: Create or re-familiarize yourself with your Reclaim Hosting account (or another hosting account if you have one).
+
+Part 3: Create or re-familiarize yourself with your GitHub account. Then, fork the <https://github.com/craigdietrich/dig540> repository. Once the fork is created, send me the link to your fork as a direct message in Slack. Clone your fork onto your local computer and edit the vocabulary.txt file like I did in the video, then sync it bac to GitHub. Finally, create a pull request so I can see your new vocabulary term and merge it to the main branch.
 
 **The assignment should be done by Wednesday Sept. 8th.**
