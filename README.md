@@ -47,7 +47,7 @@ is a site that is often used to manage and distributed open source
 software. It’s built on top of Git, a version control tool that you’re
 going to see a lot of if you hang around software development circles. 
 More details on how we’re going to use this tool are in the first
-week’s videos.
+week’s video.
 
 **Course Flow**
 
