@@ -4,7 +4,7 @@ This week is all about getting the environments set up: Slack, Reclaim Hosting (
 
 **This Week's Video**
 
-- Introduction to DIG540 and assignment overview: 
+- <https://youtu.be/yxQLnbKWP_Q>
 
 **Assignment**
 
