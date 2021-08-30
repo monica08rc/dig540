@@ -17,10 +17,10 @@ Part 2: Create or re-familiarize yourself with your Reclaim Hosting account <htt
 Part 3: Install or re-famimliarize yourself with Visual Studio Code <https://code.visualstudio.com>, the editor we will be using for text and code files.
 
 Part 4: Create or re-familiarize yourself with your GitHub account. Then, 
-- Fork the <https://github.com/craigdietrich/dig540> repository;
-- In GitHub Desktop, clone your fork onto your local computer;
-- In Visual Studio Code, edit the vocabulary.txt file like I did in the video;
-- Commit your changes to GitHub;
-- Create a pull request so I can see your new vocabulary term and merge it to the main branch.
+- Fork the class repository <https://github.com/craigdietrich/dig540>;
+- In GitHub Desktop <https://desktop.github.com>, clone your fork onto your local computer;
+- In Visual Studio Code <https://code.visualstudio.com>, edit the vocabulary.txt file like I did in the video;
+- Back in GitHub Desktop, commit your changes to GitHub;
+- In the GitHub website for your repository, create a pull request so I can see your new vocabulary term and merge it to the main branch.
 
 **The assignment should be done by Wednesday Sept. 8th.**
