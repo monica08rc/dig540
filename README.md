@@ -58,10 +58,10 @@ complexity of the material in the topic. New topics will begin on Wednesdays.
 For each topic you are expected to:
 
 -   Watch all of the lectures and tutorials listed in the week’s
-    introduction and read any assigned material.
+    introduction and read any assigned material;
 
 -   Submit the assignment on GitHub (or as a link to another site
-    or resource, as appropriate).
+    or resource, as appropriate);
 
 -   Participate in the ongoing discussions on Slack. It cannot be
     emphasized enough how important this is to successfully taking an
