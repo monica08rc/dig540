@@ -1,4 +1,6 @@
 Add vocabulary terms below.
+repository
+repository already in list so I was not sure of what information to add 
 pull request
 fork
 repository
