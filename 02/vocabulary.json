@@ -1,1 +1,22 @@
-
+[
+	{
+		"name":"pull request",
+		"definition":"Contributions to a source code repository that uses a distributed version control system are commonly made by means of a pull request, also known as a merge request. The contributor requests that the project maintainer pull the source code change, hence the name 'pull request'."
+	},
+	{
+		"name":"fork",
+		"definition":"Git naturally enables the usage of a pull-based development model, in which developers can copy the project onto their own repository, and push their changes to the original repository, where the integrators will determine the validity of the pull request."
+	},
+	{
+		"name":"repository",
+		"definition":"A software repository, or 'repo' for short, is a storage location for software packages. Often a table of contents is also stored, along with metadata. A software repository is typically managed by source control or repository managers."
+	},
+	{
+		"name":"commit",
+		"definition":"In version control systems, a commit is an operation which sends the latest changes of the source code to the repository, making these changes part of the head revision of the repository. Unlike commits in data management, commits in version control systems are kept in the repository indefinitely."
+	},
+	{
+		"name":"Git",
+		"definition":"Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development."
+	}
+]
