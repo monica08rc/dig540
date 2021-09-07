@@ -20,8 +20,9 @@ Part 4: Create a simple web page based on the "vocabulary.json" data feed:
 - Locate "vocabulary.json" in your dig540 repository;
 - Locate the 'raw' feed of "vocabulary.json" by following the "raw" button, make note of the URL;
 - In Visual Studio Code, create vocabulary.php and save to your local filesystem ... edit the new file with the code from the video;
-- Upload vocabulary.php to your Reclaim hosting account
-- Find the file online, it should now be a web page listing the contents of the vocabulary.json file!
+- Upload vocabulary.php to your Reclaim hosting account;
+- Once uploaded, find your new web page at [your domain name]/vocabulary.php, and paste this new URL into Slack;
+- Congrats, you've made your first dynamic web page!
 
 If you run into any problems, make sure to ask questions on Slack!
 
