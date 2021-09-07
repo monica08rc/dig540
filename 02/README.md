@@ -1,6 +1,6 @@
 ## Week 2 - Data Curation
 
-Now we'll look more closely at the vocabulary file we created last week, turning it into a data feed. Then we'll use our hosting accounts in order to make a web page out of the feed.
+Now we'll look more closely at the vocabulary file we created last week, turning it into a data feed. Then we'll use our hosting accounts to make a web page out of the feed.
 
 **This Week's Video**
 
@@ -16,7 +16,7 @@ Part 2: Read *What are the important differences between DAM and CMS?* by Casey 
 
 Part 3: In Slack, write a blurb about a Digital Asset Management or Content Management System that you are familiar with, and how it is being used by you or others. Be critical of the software if lacks certain features, or glowing about it if it meets your needs. 
 
-Part 4: Create a simple website based on the "vocabulary.json" data feed:
+Part 4: Create a simple web page based on the "vocabulary.json" data feed:
 - Locate "vocabulary.json" in your dig540 repository;
 - Locate the 'raw' feed of "vocabulary.json" by following the "raw" button, make note of the URL;
 - In Visual Studio Code, create vocabulary.php and save to your local filesystem ... edit the new file with the code from the video;
