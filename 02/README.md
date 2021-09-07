@@ -19,7 +19,8 @@ Part 3: In Slack, write a blurb about a Digital Asset Management or Content Mana
 Part 4: Create a simple web page based on the "vocabulary.json" data feed:
 - Locate "vocabulary.json" in your dig540 repository;
 - Locate the 'raw' feed of "vocabulary.json" by following the "raw" button, make note of the URL;
-- In Visual Studio Code, create vocabulary.php and save to your local filesystem ... edit the new file with the code from the video;
+- In Visual Studio Code, create vocabulary.php and save to your local filesystem;
+- Edit the new vocabulary.php file with the code from the video (the video will show each line of the code written by hand... feel free to follow along but I'll also post the completed code block to Slack so that you can double check your work);
 - Upload vocabulary.php to your Reclaim hosting account;
 - Once uploaded, find your new web page at [your domain name]/vocabulary.php, and paste this new URL into Slack;
 - Congrats, you've made your first dynamic web page!
