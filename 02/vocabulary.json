@@ -1,6 +1,6 @@
 [
 	{
-		"name":"pull request",
+		"name":"pull request ",
 		"definition":"Contributions to a source code repository that uses a distributed version control system are commonly made by means of a pull request, also known as a merge request. The contributor requests that the project maintainer pull the source code change, hence the name 'pull request'."
 	},
 	{
