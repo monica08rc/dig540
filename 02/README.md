@@ -4,7 +4,7 @@ Now we'll look more closely at the vocabulary file we created last week, turning
 
 **This Week's Video**
 
-- 
+- <https://youtu.be/TX2X1s9QcYs>
 
 **Assignment**
 
@@ -24,6 +24,8 @@ Part 4: Create a simple dynamic web page based on the "vocabulary.json" data fee
 - Upload vocabulary.php to your Reclaim hosting account;
 - Once uploaded, find your new web page at **[your domain name]/vocabulary.php**, and paste this new URL into Slack;
 
-Congrats, you've made your first dynamic web page! If you run into any problems, make sure to ask questions on Slack!
+Congrats, you've made your first dynamic web page! 
+
+If you run into any problems, make sure to ask questions on Slack!
 
 **The assignment should be done by Wednesday Sept. 15th.**
