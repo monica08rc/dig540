@@ -4,7 +4,7 @@
 		"definition":"Contributions to a source code repository that uses a distributed version control system are commonly made by means of a pull request, also known as a merge request. The contributor requests that the project maintainer pull the source code change, hence the name 'pull request'."
 	},
 	{
-		"name":"fork ",
+		"name":"fork",
 		"definition":"Git naturally enables the usage of a pull-based development model, in which developers can copy the project onto their own repository, and push their changes to the original repository, where the integrators will determine the validity of the pull request."
 	},
 	{
