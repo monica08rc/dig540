@@ -23,7 +23,7 @@ Part 3: Style your existing vocabulary.php file using CSS:
 Part 4: Install "Omeka S" on your Reclaim Hosting account using cPanel's single-click install:
 - Follow the video's instructions to install "Omeka S" on your Reclaim Hosting server, then visit the new Omeka S install;
 - From the Omeka S intro page, visit the Admin Area, and add a new Item;
-- Determione the URL to the data feed for your Omeka S install, that includes the new Item, and post it to Slack;
+- Determine the URL to the data feed for your Omeka S install, that includes the new Item, and post it to Slack;
 
 If you run into any problems, make sure to ask questions on Slack!
 
