@@ -17,7 +17,7 @@ Part 2: Use GitHub Desktop (which you installed in Week 1) to sync the Web/dig54
 Part 3: Style your existing vocabulary.php file using CSS:
 - Add CSS style declerations inside of "style" tags at the top of the file and test by uploading the file to the server and refreshing the browser;
 - Once you have the style how you like it, copy-paste it into a new file, called "common.css";
-- At the top of vocabulary.php, replace the "style" tags with a single "link" tag to "common.css?v=1";
+- At the top of vocabulary.php, replace the "style" tags with a single "link" tag to "common.css";
 - Upload both files (vocabulary.php and common.css) to the server and post the URL to vocabulary.php on Slack.
 
 Part 4: Install "Omeka S" on your Reclaim Hosting account using cPanel's single-click install:
