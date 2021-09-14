@@ -19,7 +19,8 @@
 		"name":"Git",
 		"definition":"Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development."
 	},
-		"name":"digital curation",
-		"definition":"Digital curation is the selection, preservation, maintenance, collection and archiving of digital assets. Digital curation establishes, maintains and adds value to repositories of digital data for present and future use."
+	{
+                "name":"digital curation",
+                "definition":"Digital curation is the selection, preservation, maintenance, collection and archiving of digital assets. Digital curation establishes, maintains and adds value to repositories of digital data for present and future use."
 	}
 ]
