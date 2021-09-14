@@ -24,7 +24,6 @@ Part 4: Install "Omeka S" on your Reclaim Hosting account using cPanel's single-
 - Follow the video's instructions to install "Omeka S" on your Reclaim Hosting server, then visit the new Omeka S install;
 - From the Omeka S intro page, visit the Admin Area, and add a new Item;
 - In the Admin Area, also create a new Site and post its URL to Slack;
-- Determine the URL to the API of the Omeka S install, go to its list of items, and you'll see the Item(s) that you uploaded.
 
 If you run into any problems, make sure to ask questions on Slack!
 
