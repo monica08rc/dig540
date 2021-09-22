@@ -13,7 +13,7 @@ All parts of the assignment are discussed in the intro video above.
 Part 1: Create a new dynamic web page that uses the Omeka S API as its data source:
 - Create a new file in your computer's web/dig540 folder (alongside vocabulary.php and common.css) and save it as "collection.php";
 - Open up "vocabulary.php" and copy the contents of that file into "collection.php";
-- In "collection.php" change the data feed URL to that of your Oemka S install's API Items feed;
+- In "collection.php" change the data feed URL to that of your Omeka S install's API Items feed;
 - Follow the instructions in the video to adapt the rest of the PHP, HTML, and CSS to the Items feed;
 - Follow the instructions in the video to add a Dublin Core Description to our previously uploaded Item and make sure that the description is being output in our PHP page;
 - Upload "collection.php" to your Reclaim Hosting account alongside vocabulary.php and common.css and view in the web browser!
