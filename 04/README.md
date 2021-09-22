@@ -18,7 +18,7 @@ Part 1: Create a new dynamic web page that uses the Omeka S API as its data sour
 - Follow the instructions in the video to add a Dublin Core Description to our previously uploaded Item and make sure that the description is being output in our PHP page;
 - Upload "collection.php" to your Reclaim Hosting account alongside vocabulary.php and common.css and view in the web browser!
 
-Part 2: Add to and customize your Omeka S install:
+Part 2: Add to your Omeka S install and create a new Site:
 - Decide on a theme for your Omeka S install collection;
 - Add at least four more items to give a total of five items in your install;
 - Create a Site and attach your five items to that Site;
