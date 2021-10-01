@@ -5,6 +5,7 @@ Using the Omeka S API in a custom PHP page.
 **This Week's Video**
 
 - <https://youtu.be/RzrlKp6AQh4>
+- The Sites > Resources page after the Omeka S 3.1 update: <https://youtu.be/rIEf65Ht0I0>
 
 **Assignment**
 
