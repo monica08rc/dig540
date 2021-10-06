@@ -1,6 +1,6 @@
 ## Week 6 - Data
 
-More with Scalar and an introduction to MySQL databases.
+More with Scalar and and getting started with MySQL databases.
 
 **This Week's Video**
 
