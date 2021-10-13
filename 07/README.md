@@ -4,7 +4,7 @@ More with Scalar and setting up a MySQL database.
 
 **This Week's Video**
 
-- 
+- <https://youtu.be/Aw5jhIPcfOw>
 
 **Assignment**
 
