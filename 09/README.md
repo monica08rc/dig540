@@ -4,7 +4,7 @@ Looking into ways that metadata fields can be visualized.
 
 **This Week's Video**
 
-- 
+- <https://youtu.be/BeQ70nqMDo0>
 
 **Assignment**
 
