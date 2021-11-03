@@ -11,7 +11,7 @@ Manually install a new collections management software.
 All parts of the assignment are discussed in the intro video above.
 
 Install CollectiveAccess:
-- Follow the video's instructions for installing CollectiveAccess on your Reclaim Hosting account;
+- Follow the video's instructions for installing CollectiveAccess on your Reclaim Hosting account <https://collectiveaccess.org>;
 - Create one or more Objects in the "Providence" back-end system;
 - Post a screengrab of your CollectiveAccess Object!
 
