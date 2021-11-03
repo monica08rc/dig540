@@ -4,7 +4,7 @@ Manually install a new collections management software.
 
 **This Week's Video**
 
-- 
+- <https://youtu.be/z7Hoaxg-8T4>
 
 **Assignment**
 
