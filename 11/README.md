@@ -4,7 +4,7 @@ Manually install CollectiveAccess' front-end, Pawtucket, and read an article on 
 
 **This Week's Video**
 
-- 
+- <https://youtu.be/dEHpFesUOsY>
 
 **Assignment**
 
