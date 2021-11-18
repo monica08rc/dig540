@@ -1,4 +1,4 @@
-## Week 12 - Ingenous-centered approaches
+## Week 12 - Indigenous-centered approaches
 
 Read an article on Indigenous concerns in an era of Digital Democracy.
 
